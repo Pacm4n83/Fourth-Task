@@ -1,4 +1,4 @@
-Uploading Files in Node.js and Express
+Uploading Images in Node.js and Express
 
 * Download the repository
 * in CLI, type 
