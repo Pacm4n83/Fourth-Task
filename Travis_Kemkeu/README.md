@@ -1,7 +1,7 @@
 Uploading Files in Node.js and Express
 
 * Download the repository
-in CLI, type 
+* in CLI, type 
 
-* $node install 
-* $node .\app.js 
+  * $node install 
+  * $node .\app.js 
